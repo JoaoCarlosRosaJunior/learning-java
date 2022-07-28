@@ -1,4 +1,4 @@
-package InputData;
+package EstruturasSequenciais.InputData;
 
 import java.util.Scanner;
 

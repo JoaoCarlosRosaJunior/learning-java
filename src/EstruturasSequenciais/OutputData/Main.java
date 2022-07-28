@@ -1,4 +1,4 @@
-package OutputData;
+package EstruturasSequenciais.OutputData;
 
 import java.util.Locale;
 

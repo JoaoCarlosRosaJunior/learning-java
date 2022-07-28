@@ -1,4 +1,4 @@
-package Casting;
+package EstruturasSequenciais.Casting;
 
 public class Main {
     public static void main(String[] args) {
